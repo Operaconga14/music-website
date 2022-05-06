@@ -63,10 +63,10 @@
           <a class="nav-link" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="about.html">About Us</a>
+          <a class="nav-link" href="about.php">About Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="list.html">Music List</a>
+          <a class="nav-link" href="list.php">Music List</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="contact.php">Contact</a>

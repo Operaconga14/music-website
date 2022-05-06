@@ -63,10 +63,10 @@
           <a class="nav-link" href="#">Home</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="about.html">About Us</a>
+          <a class="nav-link" href="about.php">About Us</a>
         </li>
         <li class="nav-item">
-          <a class="nav-link" href="list.html">Music List</a>
+          <a class="nav-link" href="list.php">Music List</a>
         </li>
         <li class="nav-item">
           <a class="nav-link" href="contact.php">Contact</a>
@@ -89,8 +89,8 @@
         <img src="./assets/icons/facebook.svg" width="28" height="28">
       </a>
 
-    <!-- Telegram Icon -->
-    <div class="d-flex align-items-center">
+     <!-- Telegram Icon -->
+     <div class="d-flex align-items-center">
       <!-- Icon -->
       <a class="text-reset me-3" href="#">
         <img src="./assets/icons/telegram.svg" width="28" height="28">
@@ -121,7 +121,7 @@
         <div class="row container">
           
           <!-- First Colunm -->
-          <div class="col" >
+          <div class="col col-6 col-sm-4" >
             <!-- Heading -->
             <h1>Welcome To Opera Music</h1>
             <!-- Sub Heading -->
@@ -130,7 +130,7 @@
           </div>
 
           <!-- Second Colunm -->
-          <div class="col">
+          <div class="col col-6 col-sm-4">
             <img src="./assets/icons/phonemus.svg" height="270in">
           </div>
         </div>
@@ -213,10 +213,7 @@
       <div class="container ">
           <h1 class="title-b ">About Opera Music</h1>
           <p class="text-b">Opera Music is a site where you stream and download your favourite music songs for free</p>
-          <div align="center">
-            <a class="btn btn-primary" href="./about.php"> Learn More</a>
-          </div>
-          
+          <a class="btn btn-primary" href="./about.php"> Learn More</a>
         </div>
     </div>
 
